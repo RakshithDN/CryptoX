@@ -9,9 +9,7 @@
 
 ## 📺 Video Preview
 
-[![Watch the Demo](https://img.youtube.com/vi/Oi6AeVBLnxg/maxresdefault.jpg)](https://youtu.be/Oi6AeVBLnxg)
-
-Click the image to watch the **CryptoX Demo** on YouTube.
+https://github.com/user-attachments/assets/3678542a-1f8a-4764-ad5b-0cef6adf4dfa
 
 ---
 
