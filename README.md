@@ -1,49 +1,55 @@
-# CryptoTracker on React 🟦
-This project is intended to be shown in my portfolio 😎.
+# 🚀 CryptoX — Real-Time Crypto Dashboard
 
-It is mainly a Single Page Application where it will show the prices of different cryptocurrencies through the consumption of Coingecko or Coinmarketcap API 🚀
+**CryptoX** is a modern, responsive cryptocurrency dashboard built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and the **CoinGecko API**. It allows users to track real-time prices, visualize market stats, and interact with a clean, stylish interface.
 
+> 🔴 **Live Demo**: [https://cryptoxdash.vercel.app](https://cryptoxdash.vercel.app)  
+> 📺 **Demo Video**: [Watch on YouTube](https://youtu.be/Oi6AeVBLnxg)
 
-## Roadmap 👀
+---
 
-- Define color schemes, logos, and site design scheme ✅ 
+## 📸 Screenshots
 
-- Create an attractive header related to the area ✅ 
+| Dashboard View | Live Coin Stats | Animated Header |
+|----------------|------------------|------------------|
+| ![Screenshot 1](screenshots/screen1.png) | ![Screenshot 2](screenshots/screen2.png) | ![Screenshot 3](screenshots/screen3.png) |
 
-- Show prices, marketcap, ath, and more ✅ 
+> 📌 *You can include up to 5 screenshots or embed a short product video instead.*
 
-- Create cryptocurrency search engine ✅
+---
 
-- Currency Converter ❌ -> Soon
+## ✨ Features
 
--  Web3 Integration ❔
+- 🔍 Search and track top cryptocurrencies
+- 📈 Live market prices and stats via CoinGecko API
+- 💫 Smooth animations using Framer Motion
+- 🌙 Dark-themed glass UI with responsive design
+- 📱 Mobile-friendly layout with fluid transitions
+- ⚡ Built using Vite + React for performance
 
+---
 
-## Tech Stack 🛠
+## 🛠️ Tech Stack
 
-**Client:** React, TailwindCSS, Material-Tailwind, Framer Motion, Lottie, React-Scroll, React-intersection-observer, ChartJS
+- **React**  
+- **Vite**  
+- **Tailwind CSS**  
+- **Framer Motion**  
+- **Material Tailwind**  
+- **CoinGecko API**
 
-**Server:** Node.js
+---
+## ⚙️ Getting Started
 
-**Design** With Photoshop and Midjourney IA for Logo's
-
-**Others** Million.js and Vite
-
-
-## Run Locally (Version 2.0) 🙌
-
-You must require `Node.js` on your PC
-
-Clone the project
+### 1. Clone the repository
 
 ```bash
-  git clone https://github.com/Joelarias1/cryptotracker-react
+git clone https://github.com/RakshithDN/CryptoX.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd cryptotracker-react
+  cd CryptoX
 ```
 
 Install dependencies
@@ -52,16 +58,40 @@ Install dependencies
   npm install
 ```
 
-Get API Key from CoinGecko
+Set up environment variable
+-Create a .env file in the root directory and add your CoinGecko API key:
 ```bash
-  https://www.coingecko.com/en/api
+  VITE_CG_API_KEY=your_api_key_here
 ```
+-🛠️ You can get your API key from CoinGecko.
 
-Create .env file (See example inside)
 
 
-Start the server
+Run the development server
 
 ```bash
   npm run dev
 ```
+
+---
+
+## 🌐 Deployment
+
+The app is deployed on **Vercel**.  
+Visit: [https://cryptoxdash.vercel.app](https://cryptoxdash.vercel.app)
+
+To deploy your own instance:
+
+1. Push the code to GitHub  
+2. Connect the repo to [Vercel](https://vercel.com/)  
+3. Set your environment variable `VITE_CG_API_KEY`  
+4. Click **Deploy**
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by **Rakshith D N**
+
+- [GitHub](https://github.com/RakshithDN)
+- [YouTube Demo](https://youtu.be/Oi6AeVBLnxg)
