@@ -2,10 +2,16 @@
 
 **CryptoX** is a modern, responsive cryptocurrency dashboard built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and the **CoinGecko API**. It allows users to track real-time prices, visualize market stats, and interact with a clean, stylish interface.
 
-> 🔴 **Live Demo**: [https://cryptoxdash.vercel.app](https://cryptoxdash.vercel.app)  
-> 📺 **Demo Video**: [Watch on YouTube](https://youtu.be/Oi6AeVBLnxg)
+- Check out the live preview of CryptoX — Real-Time Crypto Dashboard here: [https://cryptoxdash.vercel.app](https://cryptoxdash.vercel.app)
+---
+---
+
+## 🧰 Tools Used
+
+React, Vite, Tailwind CSS, Framer Motion, Material Tailwind, CoinGecko API, React Scroll, Vercel, GitHub, YouTube
 
 ---
+
 
 ## 📺 Video Preview
 
