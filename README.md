@@ -7,13 +7,19 @@
 
 ---
 
+## 📺 Video Preview
+
+[![Watch the Demo](https://img.youtube.com/vi/Oi6AeVBLnxg/maxresdefault.jpg)](https://youtu.be/Oi6AeVBLnxg)
+
+Click the image to watch the **CryptoX Demo** on YouTube.
+
+---
+
 ## 📸 Screenshots
 
 | Dashboard View | Live Coin Stats | Animated Header |
 |----------------|------------------|------------------|
-| ![Screenshot 1](screenshots/screen1.png) | ![Screenshot 2](screenshots/screen2.png) | ![Screenshot 3](screenshots/screen3.png) |
-
-> 📌 *You can include up to 5 screenshots or embed a short product video instead.*
+| ![Screenshot 1](./Screenshot1.png) | ![Screenshot 2](./Screenshot2.png) | ![Screenshot 3](./Screenshot3.png) |
 
 ---
 
@@ -40,7 +46,7 @@
 ---
 ## ⚙️ Getting Started
 
-### 1. Clone the repository
+Clone the repository
 
 ```bash
 git clone https://github.com/RakshithDN/CryptoX.git
