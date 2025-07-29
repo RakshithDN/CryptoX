@@ -1,0 +1,42 @@
+/* src/components/home/Header/header.css */
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient 3s ease infinite;
+}
+
+.glow-button {
+  position: relative;
+}
+
+.glow-button::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+
+  /* Updated gradient with slate-500 and sky-500 */
+  background: linear-gradient(45deg, #64748b, #0ea5e9, #64748b);
+  filter: blur(15px);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 16px;
+  z-index: -1;
+}
+
+.glow-button:hover::after {
+  opacity: 0.5;
+}
