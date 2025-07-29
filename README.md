@@ -19,7 +19,7 @@ Click the image to watch the **CryptoX Demo** on YouTube.
 
 | Dashboard View | Live Coin Stats | Animated Header |
 |----------------|------------------|------------------|
-| ![Screenshot 1](./Screenshot 1.png) | ![Screenshot 2](./Screenshot2.png) | ![Screenshot 3](./Screenshot 3.png) |
+| ![Screenshot 1](./Screenshot1.png) | ![Screenshot 2](./Screenshot2.png) | ![Screenshot 3](./Screenshot3.png) |
 
 ---
 
